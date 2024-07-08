@@ -10,3 +10,4 @@ eolinker/apinto-dashboard
 eolinker/cluster-redis:6.2.7
 
 eolinker/cluster-redis:7.2.4
+hslr/sun-panel:latest
