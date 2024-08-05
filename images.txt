@@ -1,15 +1,15 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
-sonatype/nexus3:latest
-sonatype/nexus3:3.69.0
+#sonatype/nexus3:latest
+#sonatype/nexus3:3.69.0
 
-mysql:5.7.34
-eolinker/apinto-dashboard
-eolinker/cluster-redis:6.2.7
+#mysql:5.7.34
+#eolinker/apinto-dashboard
+#eolinker/cluster-redis:6.2.7
 
-eolinker/cluster-redis:7.2.4
-hslr/sun-panel:latest
+#eolinker/cluster-redis:7.2.4
+#hslr/sun-panel:latest
 
 mouday/domain-admin:latest
