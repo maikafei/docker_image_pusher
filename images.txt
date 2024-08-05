@@ -12,4 +12,6 @@
 #eolinker/cluster-redis:7.2.4
 #hslr/sun-panel:latest
 
-mouday/domain-admin:latest
+#mouday/domain-admin:latest
+
+dslim/slim
