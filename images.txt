@@ -14,4 +14,6 @@
 
 #mouday/domain-admin:latest
 
-dslim/slim
+#dslim/slim
+
+jueying/ngrok-server
