@@ -16,4 +16,6 @@
 
 #dslim/slim
 
-jueying/ngrok-server
+#jueying/ngrok-server
+
+openjdk:8-jdk-alpine
