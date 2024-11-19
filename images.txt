@@ -21,4 +21,5 @@
 #openjdk:8-jdk-alpine
 #openjdk:8-jdk
 #openjdk:8-jdk-slim
- openjdk:8u171-alpine
+#openjdk:8u171-alpine
+openjdk:8u222-jre-slim
