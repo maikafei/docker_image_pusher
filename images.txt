@@ -23,4 +23,5 @@
 #openjdk:8-jdk-slim
 #openjdk:8u171-alpine
 #openjdk:8u222-jre-slim
-adoptopenjdk/openjdk8:jdk8u282-b08
+#adoptopenjdk/openjdk8:jdk8u282-b08
+metersphere/metersphere-ce-allinone
