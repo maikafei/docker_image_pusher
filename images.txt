@@ -27,4 +27,5 @@
 #metersphere/metersphere-ce-allinone
 #minio/minio
 #sameersbn/bind:9.16.1-20200524
-technitium/dns-server:11.4.1
+#technitium/dns-server:11.4.1
+adguard/adguardhome:latest
