@@ -29,4 +29,5 @@
 #sameersbn/bind:9.16.1-20200524
 #technitium/dns-server:11.4.1
 #adguard/adguardhome:latest
-hwdsl2/ipsec-vpn-server
+#hwdsl2/ipsec-vpn-server
+obsidiandynamics/kafdrop:latest
