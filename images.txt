@@ -32,4 +32,6 @@
 #hwdsl2/ipsec-vpn-server
 #obsidiandynamics/kafdrop:latest
 
-provectuslabs/kafka-ui:latest
+#provectuslabs/kafka-ui:latest
+
+dushixiang/kafka-map:latest
