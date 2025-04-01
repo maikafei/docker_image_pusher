@@ -30,4 +30,6 @@
 #technitium/dns-server:11.4.1
 #adguard/adguardhome:latest
 #hwdsl2/ipsec-vpn-server
-obsidiandynamics/kafdrop:latest
+#obsidiandynamics/kafdrop:latest
+
+provectuslabs/kafka-ui:latest
