@@ -33,5 +33,6 @@
 #obsidiandynamics/kafdrop:latest
 
 #provectuslabs/kafka-ui:latest
+#dushixiang/kafka-map:latest
 
-dushixiang/kafka-map:latest
+bestzwei/libretv:latest
