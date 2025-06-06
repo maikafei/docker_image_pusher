@@ -35,4 +35,5 @@
 #provectuslabs/kafka-ui:latest
 #dushixiang/kafka-map:latest
 
-bestzwei/libretv:latest
+#bestzwei/libretv:latest
+semaphoreui/semaphore:latest
