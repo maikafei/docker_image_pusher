@@ -36,4 +36,5 @@
 #dushixiang/kafka-map:latest
 
 #bestzwei/libretv:latest
-semaphoreui/semaphore:latest
+#semaphoreui/semaphore:latest
+rancher/rancher:v2.8.2
