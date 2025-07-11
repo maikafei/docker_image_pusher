@@ -37,4 +37,5 @@
 
 #bestzwei/libretv:latest
 #semaphoreui/semaphore:latest
-rancher/rancher:v2.8.2
+#rancher/rancher:v2.8.2
+registry.k8s.io/node-problem-detector/node-problem-detector:v0.8.19
