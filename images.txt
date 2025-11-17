@@ -44,5 +44,7 @@
 #henrygd/beszel-agent:latest
 #adguard/adguardhome@sha256:1f45f2b4530107659372a768a6faa20675da1312be9cc6e6b5b9ba43d4e8d93e
 
-signoz/signoz-schema-migrator:0.88.21
+#signoz/signoz-schema-migrator:0.88.21
+signoz/query-service:0.44.0
+
 
