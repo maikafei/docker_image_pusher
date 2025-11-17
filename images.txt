@@ -48,6 +48,7 @@
 #signoz/query-service:0.44.0
 #signoz/alertmanager:0.23.5
 #signoz/frontend:0.44.0
-signoz/signoz-otel-collector:0.88.21
+#signoz/signoz-otel-collector:0.88.21
+signoz/locust:1.2.3
 
 
