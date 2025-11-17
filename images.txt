@@ -46,6 +46,7 @@
 
 #signoz/signoz-schema-migrator:0.88.21
 #signoz/query-service:0.44.0
-signoz/alertmanager:0.23.5
+#signoz/alertmanager:0.23.5
+signoz/frontend:0.44.0
 
 
