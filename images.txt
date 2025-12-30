@@ -51,4 +51,5 @@
 #signoz/signoz-otel-collector:0.88.21
 #signoz/locust:1.2.3
 
-uusec/firefly:latest
+#uusec/firefly:latest
+rancher/mirrored-pause:3.6
