@@ -52,4 +52,5 @@
 #signoz/locust:1.2.3
 
 #uusec/firefly:latest
-rancher/mirrored-pause:3.6
+#rancher/mirrored-pause:3.6
+wordpress:php8.4-fpm
