@@ -57,5 +57,5 @@
 #wordpress:php8.4-apache
 #wordpress:php8.4
 
-docker.io/naison/kubevpn:v2.2.0
+docker.io/naison/kubevpn:v2.0.0
 
