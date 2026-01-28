@@ -55,5 +55,7 @@
 #rancher/mirrored-pause:3.6
 #wordpress:php8.4-fpm
 #wordpress:php8.4-apache
-wordpress:php8.4
+#wordpress:php8.4
+
+kubevpn-traffic-manager:latest
 
