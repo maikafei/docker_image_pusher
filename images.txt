@@ -71,9 +71,9 @@
 #ghcr.io/octohelm/harbor/harbor-exporter:v2.12.0
 
 
-ghcr.io/octohelm/harbor/redis-photon:v2.12.0
-#ghcr.io/octohelm/harbor/trivy-adapter-photon:v2.12.0 
-#ghcr.io/octohelm/harbor/harbor-core:v2.12.0 
-#ghcr.io/octohelm/harbor/harbor-db:v2.12.0  
-#ghcr.io/octohelm/harbor/harbor-jobservice:v2.12.0 
+#ghcr.io/octohelm/harbor/redis-photon:v2.12.0
+ghcr.io/octohelm/harbor/trivy-adapter-photon:v2.12.0 
+ghcr.io/octohelm/harbor/harbor-core:v2.12.0 
+ghcr.io/octohelm/harbor/harbor-db:v2.12.0  
+ghcr.io/octohelm/harbor/harbor-jobservice:v2.12.0 
 
