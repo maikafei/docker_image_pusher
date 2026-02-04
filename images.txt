@@ -59,21 +59,5 @@
 
 #docker.io/naison/kubevpn:v2.0.0
 #kubevpn-traffic-manager:v2.0.0
-
 #docker.io/naison/kubevpn:v1.1.30
-
-#ghcr.io/octohelm/harbor/harbor-registryctl:v2.12.0
-#ghcr.io/octohelm/harbor/nginx-photon:v2.12.0 
-#ghcr.io/octohelm/harbor/registry-photon:v2.12.0
-#ghcr.io/octohelm/harbor/prepare:v2.12.0    
-#ghcr.io/octohelm/harbor/harbor-portal:v2.12.0    
-#ghcr.io/octohelm/harbor/harbor-log:v2.12.0
-#ghcr.io/octohelm/harbor/harbor-exporter:v2.12.0
-
-
-#ghcr.io/octohelm/harbor/redis-photon:v2.12.0
-ghcr.io/octohelm/harbor/trivy-adapter-photon:v2.12.0 
-ghcr.io/octohelm/harbor/harbor-core:v2.12.0 
-ghcr.io/octohelm/harbor/harbor-db:v2.12.0  
-ghcr.io/octohelm/harbor/harbor-jobservice:v2.12.0 
 
