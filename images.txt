@@ -60,7 +60,8 @@
 #docker.io/naison/kubevpn:v2.0.0
 #kubevpn-traffic-manager:v2.0.0
 #docker.io/naison/kubevpn:v1.1.30
-arm64v8/openjdk:8u381-jre-slim
+#arm64v8/openjdk:8u381-jre-slim 
+kylinlinux/kylin:v10-aarch64
 
 
 
