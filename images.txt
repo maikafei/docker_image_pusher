@@ -62,7 +62,8 @@
 #docker.io/naison/kubevpn:v1.1.30
 #arm64v8/openjdk:8u381-jre-slim 
 #mariadb:11.3.2-jammy
-eipwork/kuboard:v4
+#eipwork/kuboard:v4
+docker.io/calico/kube-controllers:v3.29.2
 
 
 
