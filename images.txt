@@ -65,8 +65,8 @@
 #eipwork/kuboard:v4
 
 #docker.io/calico/kube-controllers:v3.29.2
-docker.io/calico/cni:v3.29.2
-docker.io/calico/node:v3.29.2
-
+#docker.io/calico/cni:v3.29.2
+#docker.io/calico/node:v3.29.2
+eipwork/kuboard:v3.5.2.9
 
 
