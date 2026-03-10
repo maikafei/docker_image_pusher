@@ -63,7 +63,10 @@
 #arm64v8/openjdk:8u381-jre-slim 
 #mariadb:11.3.2-jammy
 #eipwork/kuboard:v4
-docker.io/calico/kube-controllers:v3.29.2
+
+#docker.io/calico/kube-controllers:v3.29.2
+docker.io/calico/cni:v3.29.2
+docker.io/calico/node:v3.29.2
 
 
 
