@@ -69,6 +69,7 @@
 #docker.io/calico/node:v3.29.2
 #eipwork/kuboard:v3.5.2.9
 
-magiccoders/nginxpulse:latest
+#magiccoders/nginxpulse:latest
+elestio/squid:v6.8.0
 
 
