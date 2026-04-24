@@ -72,4 +72,4 @@
 #magiccoders/nginxpulse:latest
 #elestio/squid:v6.8.0
 
-
+postgres:17-alpine
