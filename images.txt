@@ -71,5 +71,5 @@
 
 #magiccoders/nginxpulse:latest
 #elestio/squid:v6.8.0
-
-postgres:18-alpine
+#postgres:18-alpine
+nginx:1.30.0
