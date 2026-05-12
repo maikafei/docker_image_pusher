@@ -72,4 +72,5 @@
 #magiccoders/nginxpulse:latest
 #elestio/squid:v6.8.0
 #postgres:18-alpine
-nginx:1.30.0
+#nginx:1.30.0
+apache/flink:2.2.0-scala_2.12-java21
